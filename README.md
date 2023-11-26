@@ -6,3 +6,4 @@ Therefore, after your third move you always occupy three squares. The move can b
 If it is your turn to move and you have three pieces on the board and one of your pieces is in the center square, your move must either win or vacate the center square.
 
 Uses JavaScript, HTML, CSS, React, Node.js, etc.
+Majority source code located in the src/App.js file
